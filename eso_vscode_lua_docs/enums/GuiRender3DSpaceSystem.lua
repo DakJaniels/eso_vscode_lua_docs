@@ -1,0 +1,8 @@
+--- @meta GuiRender3DSpaceSystem
+
+--- @alias GuiRender3DSpaceSystem integer
+--- | `GUI_RENDER_3D_SPACE_SYSTEM_CAMERA` # 1
+--- | `GUI_RENDER_3D_SPACE_SYSTEM_WORLD` # 0
+
+GUI_RENDER_3D_SPACE_SYSTEM_CAMERA = 1
+GUI_RENDER_3D_SPACE_SYSTEM_WORLD = 0

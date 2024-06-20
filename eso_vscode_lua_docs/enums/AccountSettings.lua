@@ -1,0 +1,8 @@
+--- @meta AccountSettings
+
+--- @alias AccountSettings integer
+--- | `ACCOUNT_SETTING_ACCOUNT_EMAIL` # 0
+--- | `ACCOUNT_SETTING_GET_UPDATES` # 1
+
+ACCOUNT_SETTING_ACCOUNT_EMAIL = 0
+ACCOUNT_SETTING_GET_UPDATES = 1

@@ -1,0 +1,8 @@
+--- @meta PlayerFxOverrideType
+
+--- @alias PlayerFxOverrideType integer
+--- | `PLAYER_FX_OVERRIDE_TYPE_ABILITY` # 1
+--- | `PLAYER_FX_OVERRIDE_TYPE_HARVEST` # 0
+
+PLAYER_FX_OVERRIDE_TYPE_ABILITY = 1
+PLAYER_FX_OVERRIDE_TYPE_HARVEST = 0

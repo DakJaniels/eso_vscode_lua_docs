@@ -1,0 +1,10 @@
+--- @meta FastTravelLinkType
+
+--- @alias FastTravelLinkType integer
+--- | `FAST_TRAVEL_LINK_ACTIVE` # 0
+--- | `FAST_TRAVEL_LINK_INACTIVE` # 2
+--- | `FAST_TRAVEL_LINK_IN_COMBAT` # 1
+
+FAST_TRAVEL_LINK_ACTIVE = 0
+FAST_TRAVEL_LINK_INACTIVE = 2
+FAST_TRAVEL_LINK_IN_COMBAT = 1

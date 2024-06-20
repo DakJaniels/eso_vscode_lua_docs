@@ -1,0 +1,8 @@
+--- @meta VirtualKeyboardType
+
+--- @alias VirtualKeyboardType integer
+--- | `VIRTUAL_KEYBOARD_TYPE_DEFAULT` # 0
+--- | `VIRTUAL_KEYBOARD_TYPE_EMAIL` # 1
+
+VIRTUAL_KEYBOARD_TYPE_DEFAULT = 0
+VIRTUAL_KEYBOARD_TYPE_EMAIL = 1

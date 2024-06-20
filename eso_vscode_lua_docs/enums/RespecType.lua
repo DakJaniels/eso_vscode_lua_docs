@@ -1,0 +1,10 @@
+--- @meta RespecType
+
+--- @alias RespecType integer
+--- | `RESPEC_TYPE_ATTRIBUTES` # 1
+--- | `RESPEC_TYPE_CHAMPION` # 2
+--- | `RESPEC_TYPE_SKILLS` # 0
+
+RESPEC_TYPE_ATTRIBUTES = 1
+RESPEC_TYPE_CHAMPION = 2
+RESPEC_TYPE_SKILLS = 0

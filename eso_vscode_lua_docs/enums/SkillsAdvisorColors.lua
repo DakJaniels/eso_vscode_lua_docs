@@ -1,0 +1,8 @@
+--- @meta SkillsAdvisorColors
+
+--- @alias SkillsAdvisorColors integer
+--- | `SKILLS_ADVISOR_COLOR_ADVISED` # 0
+--- | `SKILLS_ADVISOR_COLOR_NOT_ADVISED` # 1
+
+SKILLS_ADVISOR_COLOR_ADVISED = 0
+SKILLS_ADVISOR_COLOR_NOT_ADVISED = 1

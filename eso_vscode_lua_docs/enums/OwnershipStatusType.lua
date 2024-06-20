@@ -1,0 +1,10 @@
+--- @meta OwnershipStatusType
+
+--- @alias OwnershipStatusType integer
+--- | `OWNERSHIP_STATUS_ANY` # 0
+--- | `OWNERSHIP_STATUS_NOT_STOLEN` # 1
+--- | `OWNERSHIP_STATUS_STOLEN` # 2
+
+OWNERSHIP_STATUS_ANY = 0
+OWNERSHIP_STATUS_NOT_STOLEN = 1
+OWNERSHIP_STATUS_STOLEN = 2

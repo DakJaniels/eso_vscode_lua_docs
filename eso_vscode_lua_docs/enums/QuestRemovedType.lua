@@ -1,0 +1,8 @@
+--- @meta QuestRemovedType
+
+--- @alias QuestRemovedType integer
+--- | `QUEST_REMOVED_TYPE_ABANDONED` # 1
+--- | `QUEST_REMOVED_TYPE_COMPLETED` # 0
+
+QUEST_REMOVED_TYPE_ABANDONED = 1
+QUEST_REMOVED_TYPE_COMPLETED = 0

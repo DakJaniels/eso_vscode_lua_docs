@@ -1,0 +1,8 @@
+--- @meta StatBonusOption
+
+--- @alias StatBonusOption integer
+--- | `STAT_BONUS_OPTION_APPLY_BONUS` # 0
+--- | `STAT_BONUS_OPTION_DONT_APPLY_BONUS` # 1
+
+STAT_BONUS_OPTION_APPLY_BONUS = 0
+STAT_BONUS_OPTION_DONT_APPLY_BONUS = 1

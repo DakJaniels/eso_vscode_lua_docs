@@ -1,0 +1,8 @@
+--- @meta PreviewOption
+
+--- @alias PreviewOption integer
+--- | `PREVIEW_OPTION_DONT_UNSHEATHE_IF_WIELDING` # 1
+--- | `PREVIEW_OPTION_NONE` # 0
+
+PREVIEW_OPTION_DONT_UNSHEATHE_IF_WIELDING = 1
+PREVIEW_OPTION_NONE = 0

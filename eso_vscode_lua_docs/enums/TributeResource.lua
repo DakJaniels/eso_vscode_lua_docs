@@ -1,0 +1,10 @@
+--- @meta TributeResource
+
+--- @alias TributeResource integer
+--- | `TRIBUTE_RESOURCE_GOLD` # 1
+--- | `TRIBUTE_RESOURCE_POWER` # 0
+--- | `TRIBUTE_RESOURCE_PRESTIGE` # 2
+
+TRIBUTE_RESOURCE_GOLD = 1
+TRIBUTE_RESOURCE_POWER = 0
+TRIBUTE_RESOURCE_PRESTIGE = 2

@@ -1,0 +1,10 @@
+--- @meta LevelUpColors
+
+--- @alias LevelUpColors integer
+--- | `LEVEL_UP_COLOR_GAINED_TEXT` # 2
+--- | `LEVEL_UP_COLOR_GENERAL` # 0
+--- | `LEVEL_UP_COLOR_NEW_LEVEL` # 1
+
+LEVEL_UP_COLOR_GAINED_TEXT = 2
+LEVEL_UP_COLOR_GENERAL = 0
+LEVEL_UP_COLOR_NEW_LEVEL = 1

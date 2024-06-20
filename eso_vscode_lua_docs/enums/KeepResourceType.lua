@@ -1,0 +1,12 @@
+--- @meta KeepResourceType
+
+--- @alias KeepResourceType integer
+--- | `RESOURCETYPE_FOOD` # 2
+--- | `RESOURCETYPE_NONE` # 0
+--- | `RESOURCETYPE_ORE` # 3
+--- | `RESOURCETYPE_WOOD` # 1
+
+RESOURCETYPE_FOOD = 2
+RESOURCETYPE_NONE = 0
+RESOURCETYPE_ORE = 3
+RESOURCETYPE_WOOD = 1

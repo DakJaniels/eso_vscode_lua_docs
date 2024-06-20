@@ -1,0 +1,10 @@
+--- @meta LogoutResult
+
+--- @alias LogoutResult integer
+--- | `LOGOUT_RESULT_ALLOWED` # 0
+--- | `LOGOUT_RESULT_DEFER` # 1
+--- | `LOGOUT_RESULT_DISALLOWED` # 2
+
+LOGOUT_RESULT_ALLOWED = 0
+LOGOUT_RESULT_DEFER = 1
+LOGOUT_RESULT_DISALLOWED = 2

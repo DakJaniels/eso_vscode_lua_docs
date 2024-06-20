@@ -1,0 +1,12 @@
+--- @meta Attributes
+
+--- @alias Attributes integer
+--- | `ATTRIBUTE_HEALTH` # 1
+--- | `ATTRIBUTE_MAGICKA` # 2
+--- | `ATTRIBUTE_NONE` # 0
+--- | `ATTRIBUTE_STAMINA` # 3
+
+ATTRIBUTE_HEALTH = 1
+ATTRIBUTE_MAGICKA = 2
+ATTRIBUTE_NONE = 0
+ATTRIBUTE_STAMINA = 3

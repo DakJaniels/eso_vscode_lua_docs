@@ -1,0 +1,8 @@
+--- @meta InteractCancelContext
+
+--- @alias InteractCancelContext integer
+--- | `INTERACT_CANCEL_CONTEXT_COMBAT` # 1
+--- | `INTERACT_CANCEL_CONTEXT_DEFAULT` # 0
+
+INTERACT_CANCEL_CONTEXT_COMBAT = 1
+INTERACT_CANCEL_CONTEXT_DEFAULT = 0

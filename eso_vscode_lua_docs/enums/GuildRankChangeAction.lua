@@ -1,0 +1,8 @@
+--- @meta GuildRankChangeAction
+
+--- @alias GuildRankChangeAction integer
+--- | `GUILD_RANK_CHANGE_ACTION_DEMOTE` # 1
+--- | `GUILD_RANK_CHANGE_ACTION_PROMOTE` # 0
+
+GUILD_RANK_CHANGE_ACTION_DEMOTE = 1
+GUILD_RANK_CHANGE_ACTION_PROMOTE = 0

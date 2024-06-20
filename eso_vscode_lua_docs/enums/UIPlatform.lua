@@ -1,0 +1,14 @@
+--- @meta UIPlatform
+
+--- @alias UIPlatform integer
+--- | `UI_PLATFORM_PC` # 2
+--- | `UI_PLATFORM_PS4` # 1
+--- | `UI_PLATFORM_PS5` # 4
+--- | `UI_PLATFORM_REUSE_ME` # 3
+--- | `UI_PLATFORM_XBOX` # 0
+
+UI_PLATFORM_PC = 2
+UI_PLATFORM_PS4 = 1
+UI_PLATFORM_PS5 = 4
+UI_PLATFORM_REUSE_ME = 3
+UI_PLATFORM_XBOX = 0

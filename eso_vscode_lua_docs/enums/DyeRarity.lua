@@ -1,0 +1,12 @@
+--- @meta DyeRarity
+
+--- @alias DyeRarity integer
+--- | `DYE_RARITY_COMMON` # 0
+--- | `DYE_RARITY_MATERIAL` # 3
+--- | `DYE_RARITY_RARE` # 2
+--- | `DYE_RARITY_UNCOMMON` # 1
+
+DYE_RARITY_COMMON = 0
+DYE_RARITY_MATERIAL = 3
+DYE_RARITY_RARE = 2
+DYE_RARITY_UNCOMMON = 1

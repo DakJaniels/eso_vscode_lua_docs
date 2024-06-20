@@ -1,0 +1,10 @@
+--- @meta DLSSMode
+
+--- @alias DLSSMode integer
+--- | `DLSS_MODE_BALANCED` # 2
+--- | `DLSS_MODE_PERFORMANCE` # 1
+--- | `DLSS_MODE_QUALITY` # 3
+
+DLSS_MODE_BALANCED = 2
+DLSS_MODE_PERFORMANCE = 1
+DLSS_MODE_QUALITY = 3

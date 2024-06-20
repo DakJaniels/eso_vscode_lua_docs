@@ -1,0 +1,10 @@
+--- @meta PvPSystem
+
+--- @alias PvPSystem integer
+--- | `PVP_SYSTEM_CYRODIIL` # 2
+--- | `PVP_SYSTEM_INHERIT_FROM_KEEP` # 1
+--- | `PVP_SYSTEM_NONE` # 0
+
+PVP_SYSTEM_CYRODIIL = 2
+PVP_SYSTEM_INHERIT_FROM_KEEP = 1
+PVP_SYSTEM_NONE = 0

@@ -1,0 +1,8 @@
+--- @meta GraphicsMode
+
+--- @alias GraphicsMode integer
+--- | `GRAPHICS_MODE_FIDELITY` # 0
+--- | `GRAPHICS_MODE_PERFORMANCE` # 1
+
+GRAPHICS_MODE_FIDELITY = 0
+GRAPHICS_MODE_PERFORMANCE = 1

@@ -1,0 +1,10 @@
+--- @meta OnlineStatus
+
+--- @alias OnlineStatus integer
+--- | `ONLINE_STATUS_ACTIVE` # 0
+--- | `ONLINE_STATUS_AFK` # 2
+--- | `ONLINE_STATUS_OFFLINE` # 1
+
+ONLINE_STATUS_ACTIVE = 0
+ONLINE_STATUS_AFK = 2
+ONLINE_STATUS_OFFLINE = 1

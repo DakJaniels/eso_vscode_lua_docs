@@ -1,0 +1,12 @@
+--- @meta ButtonState
+
+--- @alias ButtonState integer
+--- | `BSTATE_DISABLED` # 2
+--- | `BSTATE_DISABLED_PRESSED` # 3
+--- | `BSTATE_NORMAL` # 0
+--- | `BSTATE_PRESSED` # 1
+
+BSTATE_DISABLED = 2
+BSTATE_DISABLED_PRESSED = 3
+BSTATE_NORMAL = 0
+BSTATE_PRESSED = 1

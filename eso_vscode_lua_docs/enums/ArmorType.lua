@@ -1,0 +1,12 @@
+--- @meta ArmorType
+
+--- @alias ArmorType integer
+--- | `ARMORTYPE_HEAVY` # 3
+--- | `ARMORTYPE_LIGHT` # 1
+--- | `ARMORTYPE_MEDIUM` # 2
+--- | `ARMORTYPE_NONE` # 0
+
+ARMORTYPE_HEAVY = 3
+ARMORTYPE_LIGHT = 1
+ARMORTYPE_MEDIUM = 2
+ARMORTYPE_NONE = 0

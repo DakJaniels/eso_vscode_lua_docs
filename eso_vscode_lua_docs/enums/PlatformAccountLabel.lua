@@ -1,0 +1,14 @@
+--- @meta PlatformAccountLabel
+
+--- @alias PlatformAccountLabel integer
+--- | `ACCOUNT_LABEL_PC` # 2
+--- | `ACCOUNT_LABEL_PS4` # 1
+--- | `ACCOUNT_LABEL_PS5` # 4
+--- | `ACCOUNT_LABEL_REUSE_ME` # 3
+--- | `ACCOUNT_LABEL_XBOX` # 0
+
+ACCOUNT_LABEL_PC = 2
+ACCOUNT_LABEL_PS4 = 1
+ACCOUNT_LABEL_PS5 = 4
+ACCOUNT_LABEL_REUSE_ME = 3
+ACCOUNT_LABEL_XBOX = 0

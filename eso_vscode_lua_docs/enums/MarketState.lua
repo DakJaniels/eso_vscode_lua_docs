@@ -1,0 +1,12 @@
+--- @meta MarketState
+
+--- @alias MarketState integer
+--- | `MARKET_STATE_LOCKED` # 0
+--- | `MARKET_STATE_OPEN` # 2
+--- | `MARKET_STATE_UNKNOWN` # 3
+--- | `MARKET_STATE_UPDATING` # 1
+
+MARKET_STATE_LOCKED = 0
+MARKET_STATE_OPEN = 2
+MARKET_STATE_UNKNOWN = 3
+MARKET_STATE_UPDATING = 1

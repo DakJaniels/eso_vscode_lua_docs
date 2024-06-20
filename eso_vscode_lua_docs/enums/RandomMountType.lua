@@ -1,0 +1,10 @@
+--- @meta RandomMountType
+
+--- @alias RandomMountType integer
+--- | `RANDOM_MOUNT_TYPE_ANY` # 2
+--- | `RANDOM_MOUNT_TYPE_FAVORITE` # 1
+--- | `RANDOM_MOUNT_TYPE_NONE` # 0
+
+RANDOM_MOUNT_TYPE_ANY = 2
+RANDOM_MOUNT_TYPE_FAVORITE = 1
+RANDOM_MOUNT_TYPE_NONE = 0

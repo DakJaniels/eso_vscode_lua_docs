@@ -1,0 +1,12 @@
+--- @meta MapContentType
+
+--- @alias MapContentType integer
+--- | `MAP_CONTENT_AVA` # 1
+--- | `MAP_CONTENT_BATTLEGROUND` # 3
+--- | `MAP_CONTENT_DUNGEON` # 2
+--- | `MAP_CONTENT_NONE` # 0
+
+MAP_CONTENT_AVA = 1
+MAP_CONTENT_BATTLEGROUND = 3
+MAP_CONTENT_DUNGEON = 2
+MAP_CONTENT_NONE = 0

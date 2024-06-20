@@ -1,0 +1,8 @@
+--- @meta PledgeOfMaraResponse
+
+--- @alias PledgeOfMaraResponse integer
+--- | `PLEDGE_OF_MARA_RESPONSE_ACCEPT` # 1
+--- | `PLEDGE_OF_MARA_RESPONSE_DECLINE` # 0
+
+PLEDGE_OF_MARA_RESPONSE_ACCEPT = 1
+PLEDGE_OF_MARA_RESPONSE_DECLINE = 0

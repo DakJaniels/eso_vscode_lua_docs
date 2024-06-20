@@ -1,0 +1,10 @@
+--- @meta AllowMarkupType
+
+--- @alias AllowMarkupType integer
+--- | `ALLOW_MARKUP_TYPE_ALL` # 2
+--- | `ALLOW_MARKUP_TYPE_COLOR_ONLY` # 1
+--- | `ALLOW_MARKUP_TYPE_NONE` # 0
+
+ALLOW_MARKUP_TYPE_ALL = 2
+ALLOW_MARKUP_TYPE_COLOR_ONLY = 1
+ALLOW_MARKUP_TYPE_NONE = 0

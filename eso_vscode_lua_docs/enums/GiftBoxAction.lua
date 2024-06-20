@@ -1,0 +1,14 @@
+--- @meta GiftBoxAction
+
+--- @alias GiftBoxAction integer
+--- | `GIFT_ACTION_DELETE` # 4
+--- | `GIFT_ACTION_RESEND` # 3
+--- | `GIFT_ACTION_RETURN` # 2
+--- | `GIFT_ACTION_TAKE` # 1
+--- | `GIFT_ACTION_VIEW` # 0
+
+GIFT_ACTION_DELETE = 4
+GIFT_ACTION_RESEND = 3
+GIFT_ACTION_RETURN = 2
+GIFT_ACTION_TAKE = 1
+GIFT_ACTION_VIEW = 0

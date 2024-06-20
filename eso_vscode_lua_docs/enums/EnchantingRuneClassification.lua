@@ -1,0 +1,12 @@
+--- @meta EnchantingRuneClassification
+
+--- @alias EnchantingRuneClassification integer
+--- | `ENCHANTING_RUNE_ASPECT` # 1
+--- | `ENCHANTING_RUNE_ESSENCE` # 2
+--- | `ENCHANTING_RUNE_NONE` # 0
+--- | `ENCHANTING_RUNE_POTENCY` # 3
+
+ENCHANTING_RUNE_ASPECT = 1
+ENCHANTING_RUNE_ESSENCE = 2
+ENCHANTING_RUNE_NONE = 0
+ENCHANTING_RUNE_POTENCY = 3

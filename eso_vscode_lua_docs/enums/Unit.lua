@@ -1,0 +1,18 @@
+--- @meta Unit
+
+--- @alias Unit integer
+--- | `UNIT_CENTIMETERS` # 3
+--- | `UNIT_EXPRESSION` # 6
+--- | `UNIT_METERS` # 2
+--- | `UNIT_NATIVE` # 5
+--- | `UNIT_PERCENT` # 4
+--- | `UNIT_PIXELS` # 1
+--- | `UNIT_UI` # 0
+
+UNIT_CENTIMETERS = 3
+UNIT_EXPRESSION = 6
+UNIT_METERS = 2
+UNIT_NATIVE = 5
+UNIT_PERCENT = 4
+UNIT_PIXELS = 1
+UNIT_UI = 0

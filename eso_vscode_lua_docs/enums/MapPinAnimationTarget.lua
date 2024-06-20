@@ -1,0 +1,8 @@
+--- @meta MapPinAnimationTarget
+
+--- @alias MapPinAnimationTarget integer
+--- | `PIN_ANIMATION_TARGET_MAP_AND_GUTTER` # 1
+--- | `PIN_ANIMATION_TARGET_MAP_ONLY` # 0
+
+PIN_ANIMATION_TARGET_MAP_AND_GUTTER = 1
+PIN_ANIMATION_TARGET_MAP_ONLY = 0

@@ -1,0 +1,10 @@
+--- @meta ActiveWeaponPair
+
+--- @alias ActiveWeaponPair integer
+--- | `ACTIVE_WEAPON_PAIR_BACKUP` # 2
+--- | `ACTIVE_WEAPON_PAIR_MAIN` # 1
+--- | `ACTIVE_WEAPON_PAIR_NONE` # 0
+
+ACTIVE_WEAPON_PAIR_BACKUP = 2
+ACTIVE_WEAPON_PAIR_MAIN = 1
+ACTIVE_WEAPON_PAIR_NONE = 0

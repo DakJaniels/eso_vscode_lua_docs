@@ -1,0 +1,12 @@
+--- @meta ClientGiftState
+
+--- @alias ClientGiftState integer
+--- | `GIFT_STATE_RECEIVED` # 0
+--- | `GIFT_STATE_RETURNED` # 1
+--- | `GIFT_STATE_SENT` # 3
+--- | `GIFT_STATE_THANKED` # 2
+
+GIFT_STATE_RECEIVED = 0
+GIFT_STATE_RETURNED = 1
+GIFT_STATE_SENT = 3
+GIFT_STATE_THANKED = 2

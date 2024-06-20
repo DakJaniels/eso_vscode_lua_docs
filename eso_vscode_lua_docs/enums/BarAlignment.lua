@@ -1,0 +1,10 @@
+--- @meta BarAlignment
+
+--- @alias BarAlignment integer
+--- | `BAR_ALIGNMENT_CENTER` # 2
+--- | `BAR_ALIGNMENT_NORMAL` # 0
+--- | `BAR_ALIGNMENT_REVERSE` # 1
+
+BAR_ALIGNMENT_CENTER = 2
+BAR_ALIGNMENT_NORMAL = 0
+BAR_ALIGNMENT_REVERSE = 1

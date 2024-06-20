@@ -1,0 +1,10 @@
+--- @meta ControlMaskMode
+
+--- @alias ControlMaskMode integer
+--- | `CONTROL_MASK_MODE_BASIC` # 1
+--- | `CONTROL_MASK_MODE_NONE` # 0
+--- | `CONTROL_MASK_MODE_THRESHOLD` # 2
+
+CONTROL_MASK_MODE_BASIC = 1
+CONTROL_MASK_MODE_NONE = 0
+CONTROL_MASK_MODE_THRESHOLD = 2

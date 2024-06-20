@@ -1,0 +1,8 @@
+--- @meta ReleaseReferenceOptions
+
+--- @alias ReleaseReferenceOptions integer
+--- | `KEEP_TEXTURE_AT_ZERO_REFERENCES` # 1
+--- | `RELEASE_TEXTURE_AT_ZERO_REFERENCES` # 0
+
+KEEP_TEXTURE_AT_ZERO_REFERENCES = 1
+RELEASE_TEXTURE_AT_ZERO_REFERENCES = 0

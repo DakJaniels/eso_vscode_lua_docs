@@ -1,0 +1,8 @@
+--- @meta RespecPaymentType
+
+--- @alias RespecPaymentType integer
+--- | `RESPEC_PAYMENT_TYPE_GOLD` # 0
+--- | `RESPEC_PAYMENT_TYPE_RESPEC_SCROLL` # 1
+
+RESPEC_PAYMENT_TYPE_GOLD = 0
+RESPEC_PAYMENT_TYPE_RESPEC_SCROLL = 1

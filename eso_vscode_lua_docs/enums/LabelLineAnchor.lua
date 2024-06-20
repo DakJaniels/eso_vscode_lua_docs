@@ -1,0 +1,10 @@
+--- @meta LabelLineAnchor
+
+--- @alias LabelLineAnchor integer
+--- | `LABEL_LINE_ANCHOR_BASELINE` # 1
+--- | `LABEL_LINE_ANCHOR_BOTTOM` # 2
+--- | `LABEL_LINE_ANCHOR_TOP` # 0
+
+LABEL_LINE_ANCHOR_BASELINE = 1
+LABEL_LINE_ANCHOR_BOTTOM = 2
+LABEL_LINE_ANCHOR_TOP = 0

@@ -1,0 +1,14 @@
+--- @meta BindType
+
+--- @alias BindType integer
+--- | `BIND_TYPE_NONE` # 0
+--- | `BIND_TYPE_ON_EQUIP` # 2
+--- | `BIND_TYPE_ON_PICKUP` # 1
+--- | `BIND_TYPE_ON_PICKUP_BACKPACK` # 3
+--- | `BIND_TYPE_UNSET` # -1
+
+BIND_TYPE_NONE = 0
+BIND_TYPE_ON_EQUIP = 2
+BIND_TYPE_ON_PICKUP = 1
+BIND_TYPE_ON_PICKUP_BACKPACK = 3
+BIND_TYPE_UNSET = -1

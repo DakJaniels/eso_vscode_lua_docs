@@ -1,0 +1,8 @@
+--- @meta FurniturePathState
+
+--- @alias FurniturePathState integer
+--- | `HOUSING_FURNITURE_PATH_STATE_OFF` # 0
+--- | `HOUSING_FURNITURE_PATH_STATE_ON` # 1
+
+HOUSING_FURNITURE_PATH_STATE_OFF = 0
+HOUSING_FURNITURE_PATH_STATE_ON = 1

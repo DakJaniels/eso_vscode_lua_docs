@@ -1,0 +1,10 @@
+--- @meta KeepUpgradePath
+
+--- @alias KeepUpgradePath integer
+--- | `UPGRADEPATH_DEFENSIVE` # 2
+--- | `UPGRADEPATH_NONE` # 0
+--- | `UPGRADEPATH_PRODUCTION` # 1
+
+UPGRADEPATH_DEFENSIVE = 2
+UPGRADEPATH_NONE = 0
+UPGRADEPATH_PRODUCTION = 1

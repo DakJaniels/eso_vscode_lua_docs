@@ -1,0 +1,8 @@
+--- @meta GameplayActorCategory
+
+--- @alias GameplayActorCategory integer
+--- | `GAMEPLAY_ACTOR_CATEGORY_COMPANION` # 1
+--- | `GAMEPLAY_ACTOR_CATEGORY_PLAYER` # 0
+
+GAMEPLAY_ACTOR_CATEGORY_COMPANION = 1
+GAMEPLAY_ACTOR_CATEGORY_PLAYER = 0

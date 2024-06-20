@@ -1,0 +1,8 @@
+--- @meta RotationAnimationMode
+
+--- @alias RotationAnimationMode integer
+--- | `ROTATION_ANIMATION_MODE_EULER` # 0
+--- | `ROTATION_ANIMATION_MODE_QUATERNION` # 1
+
+ROTATION_ANIMATION_MODE_EULER = 0
+ROTATION_ANIMATION_MODE_QUATERNION = 1

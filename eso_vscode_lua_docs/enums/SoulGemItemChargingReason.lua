@@ -1,0 +1,8 @@
+--- @meta SoulGemItemChargingReason
+
+--- @alias SoulGemItemChargingReason integer
+--- | `SOUL_GEM_ITEM_CHARGING_ALREADY_CHARGED` # 1
+--- | `SOUL_GEM_ITEM_CHARGING_NO_SOUL_GEM` # 0
+
+SOUL_GEM_ITEM_CHARGING_ALREADY_CHARGED = 1
+SOUL_GEM_ITEM_CHARGING_NO_SOUL_GEM = 0

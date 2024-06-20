@@ -1,0 +1,8 @@
+--- @meta SiegeCameraChoice
+
+--- @alias SiegeCameraChoice integer
+--- | `SIEGE_CAMERA_CHOICE_CONSTRAINED` # 1
+--- | `SIEGE_CAMERA_CHOICE_FREE` # 0
+
+SIEGE_CAMERA_CHOICE_CONSTRAINED = 1
+SIEGE_CAMERA_CHOICE_FREE = 0

@@ -1,0 +1,10 @@
+--- @meta SubSamplingMode
+
+--- @alias SubSamplingMode integer
+--- | `SUB_SAMPLING_MODE_LOW` # 0
+--- | `SUB_SAMPLING_MODE_MEDIUM` # 1
+--- | `SUB_SAMPLING_MODE_NORMAL` # 2
+
+SUB_SAMPLING_MODE_LOW = 0
+SUB_SAMPLING_MODE_MEDIUM = 1
+SUB_SAMPLING_MODE_NORMAL = 2

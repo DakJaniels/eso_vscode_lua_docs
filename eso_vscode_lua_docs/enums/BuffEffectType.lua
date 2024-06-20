@@ -1,0 +1,10 @@
+--- @meta BuffEffectType
+
+--- @alias BuffEffectType integer
+--- | `BUFF_EFFECT_TYPE_BUFF` # 1
+--- | `BUFF_EFFECT_TYPE_DEBUFF` # 2
+--- | `BUFF_EFFECT_TYPE_NOT_AN_EFFECT` # 0
+
+BUFF_EFFECT_TYPE_BUFF = 1
+BUFF_EFFECT_TYPE_DEBUFF = 2
+BUFF_EFFECT_TYPE_NOT_AN_EFFECT = 0
